@@ -7,4 +7,4 @@ pip install -r requirements.txt
 
 python manage.py collectstatic --no-input
 python manage.py migrate
-DJANGO_SUPERUSER_PASSWORD=Mahito148 python manage.py createsuperuser --no-input --username=maholyandrade  --email=maholiandrade12@gmail.com
+DJANGO_SUPERUSER_PASSWORD=Mahito148 python manage.py createsuperuser --no-input --username=maholyandrade1  --email=maholiandrade12@gmail.com
